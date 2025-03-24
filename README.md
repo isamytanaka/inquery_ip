@@ -1,5 +1,5 @@
 ## IP Data Lookup with ipinfo API
-
+![](ip-address.png)
 > This simple script allows you to look up information about an IP address using the ipinfo.io API.
 
 ## How it works:
